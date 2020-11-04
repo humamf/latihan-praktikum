@@ -1,0 +1,7 @@
+print("Masukkan Nilai a:20")
+print("Masukkan Nilai b:10")
+print(('variable a :', 20))
+print(('variable b :', 10))
+print("Hasil penggabungan 20%10=30")
+print("Hasil penjumlahan 20+10=30")
+print("Hasil pembagian 20/10=2")
