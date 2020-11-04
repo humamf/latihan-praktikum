@@ -16,8 +16,8 @@
 | 4. | Pertemuan 6 - Lab 2 | [silahkan klik](#pertemuan-6---lab-2) |
 ### Pertemuan 5 - Latihan
 
-Pada pertemuan 5 bahasa pemograman, saya diberi soal untuk latihan oleh Dosen untuk membuat Aplikasi Biodata dengan python (Seperti gambar di bawah ini:)
-![lat 5](https://user-images.githubusercontent.com/72872663/98088968-b7b57080-1eb4-11eb-8f37-58009fb0b406.PNG)
+Pada pertemuan 5 bahasa pemograman, saya diberi soal untuk latihan oleh Dosen untuk membuat Aplikasi Biodata dengan python (Seperti gambar di bawah ini:)<br>
+![lat 5](https://user-images.githubusercontent.com/72872663/98088968-b7b57080-1eb4-11eb-8f37-58009fb0b406.PNG) <br>
 Saat ini saya akan menjelaskan hasil dari tugas tersebut. <br>
 Berikut *source code* nya atau klik berikut ([latihan 5](lat.py)): <br>
 ``` python
@@ -98,8 +98,8 @@ Hasil dari output tersebut seperti berikut : <br>
 
 ### Pertemuan 6 - lab 1
 
-Pada halaman ini (Tugas pertemuan 6 - lab 1) Saya di berikan tugas oleh Dosen yaitu mempelajari Operator Aritmatika menggunakan bahasa pemograman python. Berikut source yang di berikan oleh Dosen [source code lab 1](lab1.py)
-![pert6](https://user-images.githubusercontent.com/72872663/98088995-bedc7e80-1eb4-11eb-9388-a93d4f172a66.PNG)
+Pada halaman ini (Tugas pertemuan 6 - lab 1) Saya di berikan tugas oleh Dosen yaitu mempelajari Operator Aritmatika menggunakan bahasa pemograman python. Berikut source yang di berikan oleh Dosen [source code lab 1](lab1.py) <br>
+![pert6](https://user-images.githubusercontent.com/72872663/98088995-bedc7e80-1eb4-11eb-9388-a93d4f172a66.PNG) <br>
 ``` python
 #Penggunaan End
 print("A", end="")
@@ -211,7 +211,7 @@ print('{0:>3}{1:>16})'.format(10, 10 ** 10))
 ```
 <br>
 Saat ini saya akan menjelaskan satu persatu dari syntax yang diberikan oleh Dosen <br>
-Tugas yang di berikan oleh Dosen adalah seperti gambar dibawah ini atau bisa di temukan dengan link berikut : ([source code](lanjutan lab1.py))<br>
+Tugas yang di berikan oleh Dosen adalah seperti gambar dibawah ini atau bisa di temukan dengan link berikut : ([source code](lanjutan lab1.py)) <br>
 1. **String format 1** <br><br>
 Pada syntax / source code string format 1 akan menampilkan output berupa 2 outputan. <br>
 Yang pertama (sebelah kiri) akan menampilkan angka urut dari angka 0 hingga 10, sedangkan sebelah kanan akan menampilkan Oprasi Aritmatika Pangkat. <br>
