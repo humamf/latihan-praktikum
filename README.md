@@ -212,6 +212,7 @@ print('{0:>3}{1:>16})'.format(10, 10 ** 10))
 <br>
 Saat ini saya akan menjelaskan satu persatu dari syntax yang diberikan oleh Dosen <br>
 Tugas yang di berikan oleh Dosen adalah seperti gambar dibawah ini atau bisa di temukan dengan link berikut : ([source code](lanjutan lab1.py)) <br>
+<br>
 1. **String format 1** <br><br>
 Pada syntax / source code string format 1 akan menampilkan output berupa 2 outputan. <br>
 Yang pertama (sebelah kiri) akan menampilkan angka urut dari angka 0 hingga 10, sedangkan sebelah kanan akan menampilkan Oprasi Aritmatika Pangkat. <br>
