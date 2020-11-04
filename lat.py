@@ -3,13 +3,13 @@ print ("        Latihan  Biodata        ")
 print ("  ==============================")
 
 #variabel
-nama= print("Masukan Nama Lengkap Anda: Humam Fathurrahman")
-panggilan= print("Masukan Nama Panggilan: Umam")
-nim= print("Masukan Nim Anda: 312010389")
-ttl= print("Masukan Tempat Lahir Anda: Bekasi")
-tl= print("Masukan Umur Anda: 18")
-alamat= print("Masukan Alamat Anda: Cikarang Utara")
-telepone= print("Masukan No Telpon Anda: 81315374236")
+nama= raw_print("Masukan Nama Lengkap Anda: Humam Fathurrahman")
+panggilan= raw_print("Masukan Nama Panggilan: Umam")
+nim= raw_print("Masukan Nim Anda: 312010389")
+ttl= raw_print("Masukan Tempat Lahir Anda: Bekasi")
+tl= raw_print("Masukan Umur Anda: 18")
+alamat= raw_print("Masukan Alamat Anda: Cikarang Utara")
+telepone= raw_print("Masukan No Telpon Anda: 81315374236")
 
 #Menampilkan Inputan User
 print ("\n Assalamu'alaikum Wr.Wb. ")
