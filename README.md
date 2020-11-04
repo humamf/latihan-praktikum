@@ -17,9 +17,9 @@
 ### Pertemuan 5 - Latihan
 
 Pada pertemuan 5 bahasa pemograman, saya diberi soal untuk latihan oleh Dosen untuk membuat Aplikasi Biodata dengan python (Seperti gambar di bawah ini:)
-![latihan pertemuan 5](gambar/foto%201.png)
+![lat 5](https://user-images.githubusercontent.com/72872663/98088968-b7b57080-1eb4-11eb-8f37-58009fb0b406.PNG)
 Saat ini saya akan menjelaskan hasil dari tugas tersebut. <br>
-Berikut *source code* nya atau klik berikut ([latihan 5](tugas5.py)): <br>
+Berikut *source code* nya atau klik berikut ([latihan 5](lat.py)): <br>
 ``` python
 print "	 ====================================" 
 print "        Latihan  Biodata Humam        "
@@ -99,7 +99,7 @@ Hasil dari output tersebut seperti berikut : <br>
 ### Pertemuan 6 - lab 1
 
 Pada halaman ini (Tugas pertemuan 6 - lab 1) Saya di berikan tugas oleh Dosen yaitu mempelajari Operator Aritmatika menggunakan bahasa pemograman python. Berikut source yang di berikan oleh Dosen [source code lab 1](lab1.py)
-![Pertemmuan 6 - lab 1](gambar/foto%206.png)
+![pert6](https://user-images.githubusercontent.com/72872663/98088995-bedc7e80-1eb4-11eb-9388-a93d4f172a66.PNG)
 ``` python
 #Penggunaan End
 print("A", end="")
@@ -180,7 +180,7 @@ Hasil dari syntax / source code diatas adalah seperti berikut iniL: <br>
 String formatting atau pemformatan string memungkinkan kita menyuntikkan item kedalam string daripada kita mencoba menggabungkan string menggunakan koma atau string concatenation.<br>
 
 Penggunaan pada source yang di berikan Dosen sebagai berikut : <br>
-![Lab 1-2](gambar/foto%209.png) <br> 
+![pert 6 (2)](https://user-images.githubusercontent.com/72872663/98088988-bd12bb00-1eb4-11eb-8f34-0385715f78e8.PNG) <br> 
 ``` python
 
 # string format 1
@@ -212,7 +212,7 @@ print('{0:>3}{1:>16})'.format(10, 10 ** 10))
 <br>
 Saat ini saya akan menjelaskan satu persatu dari syntax yang diberikan oleh Dosen <br>
 Tugas yang di berikan oleh Dosen adalah seperti gambar dibawah ini atau bisa di temukan dengan link berikut : ([source code](lanjutan lab1.py))<br>
-1. **String format 1** <br>
+1. **String format 1** <br><br>
 Pada syntax / source code string format 1 akan menampilkan output berupa 2 outputan. <br>
 Yang pertama (sebelah kiri) akan menampilkan angka urut dari angka 0 hingga 10, sedangkan sebelah kanan akan menampilkan Oprasi Aritmatika Pangkat. <br>
 Dengan ketentuan sebagau berikut, oprasi pangkat dengan angka kiri sebagai pokok (Rumus : ** [Bintang dua]) <br>
